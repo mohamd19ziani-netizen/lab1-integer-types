@@ -23,8 +23,8 @@ int main() {
     cin >> A >> B;
 
     // Данные автора
-    cout << "Автор: Your Name" << endl;
-    cout << "Группа: Your Group" << endl;
+    cout << "Автор: зиани мохаммед" << endl;
+    cout << "Группа: 090304-PIMa-o25" << endl;
 
     map<long long, long long> fa = factorize(A);
     map<long long, long long> fb = factorize(B);
